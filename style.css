@@ -17,7 +17,7 @@ body {
 #side-bar {
 	position: absolute;
 	width: 230px;
-	height: auto;
+	height: 100%;
 	background: #af151a;
 	left: -300px;
 	transition: 0.8s ease-out;
@@ -48,7 +48,8 @@ body {
 	display: block;
 	margin-top: 4px;
 	transition: 0.5s ease;
-}.toggle-button span4{
+}
+.toggle-button span4{
 	width: 60px;
 	height: 10px;
 	border-radius: 5px;
