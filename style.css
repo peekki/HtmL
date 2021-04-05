@@ -17,7 +17,7 @@ body {
 #side-bar {
 	position: absolute;
 	width: 230px;
-	height: 100%;
+	height: auto;
 	background: #af151a;
 	left: -300px;
 	transition: 0.8s ease-out;
@@ -108,11 +108,11 @@ a {
 	top: 0px;
 	left: 0px;
 	height: 55px;
-	width: 100%px;
+	width: auto;
 }
 #m {
 	position: left;
-	width: 100%;
+	width: 1400px;
 	height: 55px;
 	background: #c5181e;
 	
